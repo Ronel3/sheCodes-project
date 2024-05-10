@@ -1,0 +1,57 @@
+h1 {
+  color: blueviolet;
+  text-align: center;
+  font-size: 50px;
+  border: 1px solid blueviolet;
+  padding: 5px 3px 5px 3px;
+  border-radius: 4px;
+}
+h2 {
+  text-align: center;
+  color: #fff;
+}
+img {
+  display: block;
+  margin: 0 auto;
+}
+p {
+  text-align: center;
+  color: #fff;
+}
+.sing {
+  background: linear-gradient(to top, #c471f5 0%, #fa71cd 100%);
+
+  display: block;
+  border-radius: 10px;
+  padding: 30px;
+  margin: 50px 100px 50px 100px;
+}
+.love {
+  text-align: center;
+  color: #fff;
+}
+button {
+  display: block;
+  margin: 20px auto;
+  border: 1px solid blueviolet;
+  background-color: blueviolet;
+  color: white;
+  font-size: 16px;
+  line-height: 22px;
+  padding: 16px 24px;
+  border-radius: 30px;
+  transition: all 200ms ease-in-out;
+  box-shadow: rgba(83, 37, 89, 0.08) 0px 8px 8px 0;
+}
+a {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+}
+
+button:hover {
+  background-color: white;
+  color: blueviolet;
+  border: 1px solid #1a64d6;
+  cursor: pointer;
+}
